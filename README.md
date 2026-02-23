@@ -31,7 +31,7 @@ Developed Flask-based REST API for real-time predictions
 
 📫 Connect With Me
 📧 Email: gayatrisonawane942@gmail.com
-💼 LinkedIn: (Add your LinkedIn profile link here)
+💼 LinkedIn: https://www.linkedin.com/in/gayatri-sonawane-5163ab286
 🌐 GitHub: https://github.com/gayatrisonawane942
 
 ⭐ Always open to collaboration, learning, and new opportunities in Cloud & DevOps!
